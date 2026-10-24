@@ -5,3 +5,5 @@ An interactive English vocabulary practice game for Hebrew-speaking kids, organi
 ## Running
 
 It's a single self-contained HTML file — just open `english-quest.html` in a browser.
+
+**Play online:** https://noga-wan.github.io/english-book-words/
